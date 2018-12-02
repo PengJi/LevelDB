@@ -3,6 +3,11 @@
 #include "leveldb/db.h"
 #include "leveldb/write_batch.h"
 
+/*
+ * LevelDB：使用介绍
+ * https://www.jianshu.com/p/573c5706da0a
+ */
+
 int main()
 {
     // Open a database.
